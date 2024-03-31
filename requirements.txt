@@ -1,0 +1,11 @@
+# ReportLab library for PDF generation
+reportlab
+
+# Pillow library for image processing
+Pillow
+
+# NumPy library for numerical operations
+numpy
+
+# PyDicom library for DICOM file handling
+pydicom
